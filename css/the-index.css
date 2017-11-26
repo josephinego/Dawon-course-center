@@ -1,0 +1,180 @@
+.index-header{
+	height:720px;
+	background-image: url(../img/0708zsucaijtdcb00557.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.manpower{
+	color: white;
+	text-align: center;
+}
+.manpower>p:first-child{
+	font-size: 65px;
+	font-weight: bolder;
+	padding-top: 200px;
+	padding-bottom: 62px;
+}
+.manpower>p:last-child{
+	font-size: 24px;
+}
+/*全面类型*/
+.type{
+	height: 160px;
+	border-bottom: 2px solid #e6e6e6;
+}
+.type-icon{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+    margin-bottom: 24px;
+	background-image: url(../img/icon01.png);
+}
+.i-one{
+	background-position: 0 0;
+}
+.i-two{
+	background-position: 644px 0;
+}
+.i-three{
+	background-position: 345px 0;
+}
+.i-four{
+	background-position: 50px 0;
+}
+.type-list>li{
+	width: 300px;
+	padding-top: 45px;
+	text-align: center;
+	float: left;
+}
+/*价值驱动*/
+.value-dirving{
+	font-size: 40px;
+	padding-top: 80px;
+	/*font-weight: 700;*/
+}
+.value-introduce{
+	/*font-size: 18px;*/
+	text-align: center;
+	margin-top: 34px;
+	line-height: 30px;
+	margin-bottom: 58px;
+}
+.bulb-img{
+	width: 588px;
+	height: 258px;
+	position: relative;
+}
+.bulb-img-words{
+	color: white;
+	width: 588px;
+	height: 80px;
+	background: black;
+	opacity: 0.7;
+	position: absolute;
+	bottom: 0;
+	line-height: 40px;
+}
+.bulb-img-words>p{
+	margin-left: 20px;
+}
+
+.bulb-img-words>p:first-child{
+	font-size: 22px;
+}
+
+.chief-people{
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 40px;
+	text-align: center;
+}
+.chief-people>span{
+	display: inline-block;
+}
+.chief-icon-up,.chief-icon-down{
+	width: 40px;
+	height: 40px;
+	margin-right: 20px;
+}
+.chief-icon-up{
+	background:url(../img/icon02.png) no-repeat -4px 0;
+}
+.chief-icon-down{
+	background:url(../img/icon02.png) no-repeat -4px -53px;
+}
+.chief-up>p,.chief-down>p{
+	padding-left: 64px;
+	font-size: 15px;
+	padding-top: 10px;
+}
+.chief-up,.chief-down{
+	width: 587px;
+}
+.chief-down{
+	margin-top: 60px;
+}
+.human{
+	color: white;
+	margin-top: 25px;
+}
+.human>li{
+	width: 180px;
+	height: 100px;
+	position: relative;
+	float: left;
+	margin-right: 24px;
+}
+.human>li:last-child{
+	margin-right: 0;
+}
+.human>li>p{
+	position: absolute;
+	top: 42px;
+	left: 30px;
+}
+/*按钮*/
+.button-class{
+	width: 300px;
+	height: 60px;
+	border: 1px solid #4378d7;
+	color: #4378d7;
+	text-align: center;
+	line-height: 60px;
+	font-size: 22px;
+	margin: 50px auto 80px auto;
+}
+/*合作伙伴*/
+.partner{
+	height: 580px;
+	background-color: #f5f5f5;
+}
+.partner-list{
+	margin-top: 80px;
+}
+.partner-list>li{
+	float: left;
+	position: relative;
+	width: 224px;
+	height: 100px;
+	overflow: hidden;
+	margin-right: 20px;
+}
+.partner-list>li:last-child{
+	margin-right: 0;
+}
+.partner-above{
+	width: 224px;
+	height: 100px;
+	background-color: black;
+	opacity: 0.6;
+	position: absolute;
+	top: 0;
+	line-height: 100px;
+	text-align: center;
+	color: white;
+}
+.partner-arrow-left,.partner-arrow-right{
+	width: 25px;
+	padding-top: 30px;
+}

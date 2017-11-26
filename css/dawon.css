@@ -2,6 +2,9 @@ body,ul,h3,h5,p{
 	margin:0;
 	padding: 0;
 }
+body{
+	font-family: "微软雅黑";
+}
 a{
 	color: inherit;
 	text-decoration: none;
@@ -29,7 +32,6 @@ ul li{
 }
 .header{
 	height: 660px;
-	/*width: 100%;*/
 	background-image: url(../img/banner_1920~660.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
